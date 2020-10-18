@@ -29,7 +29,7 @@
             app:srcCompat="@drawable/icons8_hashtag_100" />
 
         <EditText
-            android:id="@+id/editTextTextPersonName"
+            android:id="@+id/number_dark"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginEnd="8dp"
@@ -59,7 +59,7 @@
 <!--    </RelativeLayout>-->
 
     <RadioGroup
-        android:id="@+id/radioGroup"
+        android:id="@+id/radioGroup_dark"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/boxNumber"
@@ -71,7 +71,7 @@
         android:orientation="horizontal">
 
         <RadioButton
-            android:id="@+id/radioButton"
+            android:id="@+id/RBinary"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="5dp"
@@ -83,7 +83,7 @@
             android:textSize="13sp" />
 
         <RadioButton
-            android:id="@+id/radioButton2"
+            android:id="@+id/RDecimal"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="5dp"
@@ -94,7 +94,7 @@
             android:textSize="13sp" />
 
         <RadioButton
-            android:id="@+id/radioButton3"
+            android:id="@+id/ROctal"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="5dp"
@@ -105,7 +105,7 @@
             android:textSize="13sp" />
 
         <RadioButton
-            android:id="@+id/radioButton4"
+            android:id="@+id/RHexdecimal"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="5dp"
@@ -120,7 +120,7 @@
         android:id="@+id/center"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/radioGroup"
+        android:layout_below="@+id/radioGroup_dark"
         android:layout_alignParentStart="true"
         android:layout_centerHorizontal="true"
         android:layout_marginStart="0dp"
@@ -157,7 +157,7 @@
                 android:textStyle="bold" />
 
             <TextView
-                android:id="@+id/binaryText"
+                android:id="@+id/binaryText_dark"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -200,7 +200,7 @@
                 android:textStyle="bold" />
 
             <TextView
-                android:id="@+id/decimalText"
+                android:id="@+id/decimalText_dark"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -242,7 +242,7 @@
                 android:textStyle="bold" />
 
             <TextView
-                android:id="@+id/octalText"
+                android:id="@+id/octalText_dark"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -284,7 +284,7 @@
                 android:textStyle="bold" />
 
             <TextView
-                android:id="@+id/hexdecimalText"
+                android:id="@+id/hexdecimalText_dark"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
