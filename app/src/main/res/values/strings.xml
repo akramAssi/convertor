@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">convertor</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hexdecimal">Hexdecimal</string>
+    <string name="octal">Octal</string>
+    <string name="decimal">Decimal</string>
+    <string name="binary">Binary</string>
+    <string name="hint">Number ...</string>
+    <string name="numbericon">numberIcon</string>
+    <string name="current_system">current System</string>
+    <string name="number">Number</string>
+</resources>

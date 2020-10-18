@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+
+<!--    color scheme  dark-->
+    <color name="backGround_dark">#1F2E35</color>
+    <color name="backGroundSearchBox_dark">#1A282F</color>
+    <color name="fontColor_dark">#96A7AF</color>
+    <color name="selectedColor_dark">#3ED598</color>
+    <color name="bottom_navigation_dark">#30444E</color>
+
+
+<!--    color scheme  dark-->
+
+    <color name="backGround">#ffffff</color>
+    <color name="backGroundSearchBox">#EDF1FA</color>
+    <color name="fontColor">#1A282F</color>
+    <color name="selectedColor">#3ED598</color>
+    <color name="bottom_navigation">#EDF1FA</color>
+    <color name="bottomColor">#899A96</color>
+    <color name="status">#BCC2C5</color>
+
+<!--    color  card-->
+
+    <color name="binary">#ff565e</color>
+    <color name="decimal">#ffc542</color>
+    <color name="octal">#3ed598</color>
+    <color name="hexDecimal">#755fe2</color>
+
+
+
+
+</resources>
