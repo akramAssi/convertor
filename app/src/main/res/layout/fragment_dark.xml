@@ -38,11 +38,11 @@
             android:ems="10"
             android:fontFamily="@font/hjjhh"
             android:hint="@string/hint"
-            android:inputType="textShortMessage|textPersonName"
+            android:importantForAutofill="no"
+            android:inputType="number|textPersonName|text"
             android:textColor="@color/fontColor_dark"
             android:textColorHint="@color/bottomColor"
-            android:textSize="19sp"
-            android:importantForAutofill="no" />
+            android:textSize="19sp" />
     </LinearLayout>
 
 <!--    <RelativeLayout-->
@@ -150,7 +150,7 @@
                 android:layout_height="25dp"
                 android:layout_weight="1"
                 android:fontFamily="sans-serif-black"
-                android:gravity="center_vertical"
+                android:gravity="start|center_vertical"
                 android:text="@string/binary"
                 android:textColor="#FFFFFF"
                 android:textSize="18sp"
@@ -162,7 +162,9 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:ellipsize="end"
-                android:gravity="left|center_vertical"
+                android:gravity="start|center_vertical"
+                android:paddingStart="5dp"
+                android:paddingEnd="5dp"
                 android:textColor="#FFFFFF"
                 android:textSize="14sp" />
 
@@ -193,7 +195,7 @@
                 android:layout_height="25dp"
                 android:layout_weight="1"
                 android:fontFamily="sans-serif-black"
-                android:gravity="center_vertical"
+                android:gravity="start|center_vertical"
                 android:text="@string/decimal"
                 android:textColor="#FFFFFF"
                 android:textSize="18sp"
@@ -205,7 +207,9 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:ellipsize="end"
-                android:gravity="left|center_vertical"
+                android:gravity="start|center_vertical"
+                android:paddingStart="5dp"
+                android:paddingEnd="5dp"
                 android:textColor="#FFFFFF"
                 android:textSize="14sp" />
         </LinearLayout>
@@ -235,7 +239,7 @@
                 android:layout_height="25dp"
                 android:layout_weight="1"
                 android:fontFamily="sans-serif-black"
-                android:gravity="center_vertical"
+                android:gravity="start|center_vertical"
                 android:text="@string/octal"
                 android:textColor="#FFFFFF"
                 android:textSize="18sp"
@@ -247,7 +251,9 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:ellipsize="end"
-                android:gravity="left|center_vertical"
+                android:gravity="start|center_vertical"
+                android:paddingStart="5dp"
+                android:paddingEnd="5dp"
                 android:textColor="#FFFFFF"
                 android:textSize="14sp" />
         </LinearLayout>
@@ -277,7 +283,7 @@
                 android:layout_height="25dp"
                 android:layout_weight="1"
                 android:fontFamily="sans-serif-black"
-                android:gravity="center_vertical"
+                android:gravity="start|center_vertical"
                 android:text="@string/hexdecimal"
                 android:textColor="#FFFFFF"
                 android:textSize="14sp"
@@ -289,7 +295,9 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:ellipsize="end"
-                android:gravity="left|center_vertical"
+                android:gravity="start|center_vertical"
+                android:paddingStart="5dp"
+                android:paddingEnd="5dp"
                 android:textColor="#FFFFFF"
                 android:textSize="14sp" />
         </LinearLayout>
