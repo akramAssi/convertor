@@ -26,13 +26,11 @@ An application that takes a number in any system (binary, decimal, octet, hexade
 - binary
 - decimal
 - octal
-<br>
-<br>
-<br>
+
 ![ ](https://github.com/akramAssi/convertor/blob/master/screen%20shot/122414740_357321145475193_7448391740433132954_n.jpg?raw=true)
-
-
-
-
+<br>
+![ screen in light mode](https://github.com/akramAssi/convertor/blob/master/screen%20shot/122214386_345464753217678_855634297341337368_n.jpg?raw=true)
+<br>
+![screen normal ](https://github.com/akramAssi/convertor/blob/master/screen%20shot/122230015_620628205280226_3513532169566209138_n.jpg?raw=true)
 
  
