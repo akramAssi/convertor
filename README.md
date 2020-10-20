@@ -27,7 +27,7 @@ An application that takes a number in any system (binary, decimal, octet, hexade
 - decimal
 - octal
 
-![ ](https://github.com/akramAssi/convertor/blob/master/screen%20shot/122414740_357321145475193_7448391740433132954_n.jpg)
+![ ](https://github.com/akramAssi/convertor/blob/master/screen%20shot/122414740_357321145475193_7448391740433132954_n.jpg | width=100)
 <br>
 ![ screen in light mode](https://github.com/akramAssi/convertor/blob/master/screen%20shot/122214386_345464753217678_855634297341337368_n.jpg?raw=true =250x)
 <br>
